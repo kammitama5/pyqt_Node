@@ -9,5 +9,7 @@ Simple Node-connecting interface using PyQt4
   - Label Nodes 
  - Keybindings? (delete, add, select multiple)
  - Enter to make connections? eg. A -> B
+  - Edges
+  - Vertices
  - Viewer 
  - Make new File
