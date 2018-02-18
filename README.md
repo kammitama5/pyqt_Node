@@ -1,5 +1,5 @@
 # pyqt_experiments
-learning some PyQt4
+Simple Node-connecting interface using PyQt4
 
 ## Possible Project
 - Node based programme
