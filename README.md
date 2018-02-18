@@ -7,7 +7,7 @@ learning some PyQt4
   - Double-click to delete a node
   - Make connections between nodes
   - Label Nodes 
- - Keybindings?
+ - Keybindings? (delete, add, select multiple)
  - Enter to make connections? eg. A -> B
  - Viewer 
  - Make new File
